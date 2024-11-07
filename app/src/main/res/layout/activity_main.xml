@@ -35,7 +35,7 @@
             android:layout_height="300dp"
             android:layout_gravity="start"
             android:scaleType="fitXY"
-            android:contentDescription="@string/todoo"
+            android:contentDescription="@string/image1"
             android:src="@drawable/meme1" />
         <ImageView
             android:layout_width="wrap_content"
