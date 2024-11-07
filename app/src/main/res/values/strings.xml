@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="hello_dear">hello_dear</string>
+    <string name="enter_your_age">enter_your_age</string>
+    <string name="todo">TODO</string>
+    <string name="hello">HELLO</string>
+    <string name="todoo">TODO</string>
+    <string name="click_here">click here</string>
+    <string name="meme_app">MEME APP</string>
+</resources>
